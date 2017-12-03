@@ -1,0 +1,1 @@
+https://github.com/evenxhn/vue-shopping.git .
